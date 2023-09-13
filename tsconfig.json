@@ -1,0 +1,12 @@
+tsconfig.json
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "outDir": "./src",
+    "strict": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
